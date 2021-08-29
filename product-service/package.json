@@ -1,0 +1,12 @@
+{
+  "name": "product-service",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "babel-loader": "^8.2.2"
+  },
+  "devDependencies": {
+    "serverless-webpack": "^5.5.1",
+    "webpack": "^5.51.1"
+  }
+}
