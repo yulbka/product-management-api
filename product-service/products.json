@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "description": "Lead your civilization to greatness in military, arts, science or economy.",
+    "image": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__imagepagezoom/img/D4o3N8_CqlECOFk5qqWbwUUsy_o=/fit-in/1200x900/filters:no_upscale():strip_icc()/pic798666.jpg",
+    "productName": "Sid Meier's Civilization: The Board Game",
+    "price": 40
+  },
+  {
+    "id": "2",
+    "description": "Build an interstellar civilization by exploration, research, conquest, and diplomacy.",
+    "image": "https://cf.geekdo-images.com/Oh3kHw6lweg6ru71Q16h2Q__imagepage/img/Yb3tBDagMIaGMxDlhomv8pLc3Zk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5235277.jpg",
+    "productName": "Eclipse: Second Dawn for the Galaxy",
+    "price": 150
+  },
+  {
+    "id": "3",
+    "description": "Rewrite history as you build up your civilization in this epic card drafting game!",
+    "image": "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__imagepage/img/kLV0WV3-tC7wGqSbzdBAAGjU3g4=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2663291.jpg",
+    "productName": "Through the Ages: A New Story of Civilization",
+    "price": 50
+  },
+  {
+    "id": "4",
+    "description": "Craftsmen, scholars & monks can help you reign supreme—but who will turn up to help?",
+    "image": "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__imagepage/img/bmtHK2zXBEUD-Wme7CvkPbL0goA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic6228507.jpg",
+    "productName": "Orléans",
+    "price": 45
+  },
+  {
+    "id": "6",
+    "description": "Build your hero’s spells, abilities, and artifacts as you explore & conquer cities.",
+    "image": "https://cf.geekdo-images.com/DUO2hz9AlLOH8p9ED-lCWg__imagepage/img/ROAuGFhL9abZxxzvXUCJJuvtkOk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1083380.jpg",
+    "productName": "Mage Knight Board Game",
+    "price": 80
+  },
+  {
+    "id": "7",
+    "description": "Play as warring Egyptian Gods and build the most powerful army to dominate Egypt.",
+    "image": "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__imagepage/img/qmyGVUaPSPuJ6KApTKcGFtuXRuk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3979527.jpg",
+    "productName": "Kemet",
+    "price": 45
+  },
+  {
+    "id": "8",
+    "description": "Plan, trade, and build your Burgundian estate to prosperity and prominence.",
+    "image": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__imagepage/img/hGdIQZbCqxvEyQ5s8ETrmypyIlA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1176894.jpg",
+    "productName": "The Castles of Burgundy",
+    "price": 40
+  },
+  {
+    "id": "9",
+    "description": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
+    "image": "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__imagepage/img/FS1RE8Ue6nk1pNbPI3l-OSapQGc=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3536616.jpg",
+    "productName": "Terraforming Mars",
+    "price": 70
+  },
+  {
+    "id": "10",
+    "description": "Heroes are resurrected to face dark forces and ancient evil assaulting Talon Coast.",
+    "image": "https://cf.geekdo-images.com/FNVnu-vB8WjyQTf63Ssvig__imagepage/img/yKXyyqBmjpl1MYXnLAASDMquGtw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2673763.jpg",
+    "productName": "Sword & Sorcery",
+    "price": 80
+  },
+  {
+    "id": "11",
+    "description": "Use strategic outposts and navigate danger as you herd your cattle to Kansas City.",
+    "image": "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__imagepage/img/TfWI6S9l7W06aO7b6apSfrEgVOo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4887376.jpg",
+    "productName": "Great Western Trail",
+    "price": 55
+  },
+  {
+    "id": "12",
+    "description": "Lead your Roman dynasty and build the greatest trading empire in the Mediterranean.",
+    "image": "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__imagepage/img/wLKrQnpz-Udm23hoDBRjyKgHEvo=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3453267.jpg",
+    "productName": "Concordia",
+    "price": 45
+  },
+  {
+    "id": "13",
+    "description": "Relive the Cold War and rewrite history in an epic clash between the USA and USSR.",
+    "image": "https://cf.geekdo-images.com/pNCiUUphnoeWOYfsWq0kng__imagepage/img/BWy9XaudHc_YnHCrzFc3cINAhvw=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3530661.jpg",
+    "productName": "Twilight Struggle",
+    "price": 55
+  },
+  {
+    "id": "14",
+    "description": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
+    "image": "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__imagepage/img/-17KkOmxbTu2slJTabGrkO8ZW8s=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3490053.jpg",
+    "productName": "Brass: Birmingham",
+    "price": 65
+  },
+  {
+    "id": "15",
+    "description": "Build an intergalactic empire through trade, research, conquest and grand politics.",
+    "image": "https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__imagepage/img/0AK9hQgpcOOOLJh8IEZS3Nw57vE=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3727516.jpg",
+    "productName": "Twilight Imperium: Fourth Edition",
+    "price": 140
+  },
+  {
+    "id": "16",
+    "description": "An unknown Elder God approaches the world—and you must solve mysteries to stop it.",
+    "image": "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__imagepage/img/ier4keS2lwgi6bIJKhSDIKVDBmA=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1872452.jpg",
+    "productName": "Eldritch Horror",
+    "price": 55
+  },
+  {
+    "id": "17",
+    "description": "Attract a beautiful and diverse collection of birds to your wildlife reserve.",
+    "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__imagepage/img/uIjeoKgHMcRtzRSR4MoUYl3nXxs=/fit-in/900x600/filters:no_upscale():strip_icc()/pic4458123.jpg",
+    "productName": "Wingspan",
+    "price": 45
+  },
+  {
+    "id": "18",
+    "description": "Survive an alien-infested spaceship but beware of other players and their agendas.",
+    "image": "https://cf.geekdo-images.com/tAqLpWxQ0Oo3GaPP3MER1g__imagepage/img/XyHxeMepMS292xwGjwdK6SvPL4I=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5073276.jpg",
+    "productName": "Nemesis",
+    "price": 170
+  },
+  {
+    "id": "19",
+    "description": "Use resources to build a village of critters and constructions in this woodland game.",
+    "image": "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__imagepage/img/ijYTk6KGtxLRdIvLsGar13ZHs4c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic3918905.png",
+    "productName": "Everdell",
+    "price": 45
+  },
+  {
+    "id": "20",
+    "description": "Create the most prosperous winery in Italy from the Tuscan vineyard you've inherited.",
+    "image": "https://cf.geekdo-images.com/2muMiNgOIYipDr5fnYJqKg__imagepage/img/xottjbXzNW9yBIpzxpWPYkMhkS0=/fit-in/900x600/filters:no_upscale():strip_icc()/pic2649952.jpg",
+    "productName": "Viticulture Essential Edition",
+    "price": 85
+  }
+]
