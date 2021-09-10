@@ -2,6 +2,8 @@ service: product-service
 
 frameworkVersion: '2'
 
+useDotenv: true
+
 custom:
   webpack:
     includeModules: false
@@ -18,7 +20,16 @@ provider:
   stage: dev
   region: eu-west-1
 
+  environment:
+    PG_HOST: ${env:PG_HOST}
+    PG_PORT: ${env:PG_PORT}
+    PG_DATABASE: ${env:PG_DATABASE}
+    PG_USERNAME: ${env:PG_USERNAME}
+    PG_PASSWORD: ${env:PG_PASSWORD}
+
 functions:
+  invokeDB:
+    handler: handler.invokeDB
   getProductsList:
     handler: handler.getProductsList
     events:
