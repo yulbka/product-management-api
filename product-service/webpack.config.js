@@ -1,5 +1,6 @@
 const path = require('path');
 const slsw = require('serverless-webpack');
+const webpack = require('webpack');
 
 module.exports = {
   entry: slsw.lib.entries,
@@ -22,6 +23,9 @@ module.exports = {
   resolve: {
     extensions: ['.js', '.json'],
   },
+  plugins: [
+    new webpack.IgnorePlugin({ resourceRegExp: /^pg-native$/ }),
+  ],
   output: {
     libraryTarget: 'commonjs',
     path: path.resolve(__dirname, 'dist'),
