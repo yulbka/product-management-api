@@ -51,3 +51,23 @@ functions:
           path: products
           method: post
           cors: true
+  catalogBatchProcess: 
+    handler: handler.catalogBatchProcess
+    events:
+        - sqs:
+            batchSize: 5
+            arn:
+              Fn::GetAtt:
+                - catalogItemsQueue
+                - Arn     
+
+resources:
+  Resources:
+    catalogItemsQueue:
+      Type: AWS::SQS::Queue
+      Properties:
+        QueueName: sqs-task-6
+
+Outputs:
+  SQS_URL:
+    Value: !Ref catalogItemsQueue

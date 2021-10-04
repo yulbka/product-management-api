@@ -44,4 +44,4 @@ functions:
             event: s3:ObjectCreated:*
             rules:
               - prefix: uploaded/
-            existing: true
+            existing: true 
